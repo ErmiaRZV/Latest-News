@@ -1,0 +1,18 @@
+.tr{
+    
+    transform: translateY(-100vh);
+   
+}
+.lineTwo{
+    display: none !important;
+}
+.lineone{
+    perspective: 800px;
+    transform: rotate(-45deg) !important;
+
+}
+.linethree{
+    perspective: 800px;
+    transform: rotate(45deg) !important;
+
+}
