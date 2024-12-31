@@ -5,9 +5,8 @@
 - [Demo Project](https://ermiarzv.github.io/Latest-News/)
 - Developed by Ermia Razavi
 - Created - December 2024
-- 🤖 Technologies Used - Html , css(Tailwind) ,JavaScript
+- 🤖 Technologies Used - Html , Tailwind css ,JavaScript
 - How to reach me : with my
-[instagram](https://www.instagram.com/ermia_razavi.dev) and
 [linkedin](https://www.linkedin.com/in/ermia-razavi-a611312a3/)
 
 ![Latest News - Google Chrome 12_9_2024 11_18_32 PM](https://github.com/user-attachments/assets/240e5105-a760-4166-ac62-0c660bf072e9)
